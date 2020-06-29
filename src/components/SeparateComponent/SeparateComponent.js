@@ -6,7 +6,7 @@ const SeparateComponent = () => {
   return (
     <div>
       <h1>Share Count: {state.count}</h1>
-      <button onClick={() => { }}>fetch again</button>
+      {/* <button onClick={() => { }}>fetch again</button> */}
 
     </div>
   )
